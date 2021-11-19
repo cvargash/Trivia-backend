@@ -1,0 +1,19 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJwbGF5ZXIyMiIsImlhdCI6MTYzNjY3NzEyNX0.bJeYDIxjAtbKxHodKfRFnFIOMIKhjqmBcmHcbLMtIBI
+
+
+1234prueba
+
+Paso Software:
+
+http://localhost:4035/players/register
+http://localhost:4035/player/login
+http://localhost:4035/questions/single
+http://localhost:4035/questions/response
+
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJwbGF5ZXIxIiwiaWF0IjoxNjM2NzU5Nzg4fQ.g0grKcUTRGCD_xp4XOqZAcI-T49QFoDaB0GNP-2EnaU
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJwbGF5ZXIxIiwiaWF0IjoxNjM2NzU5ODM3fQ.wgj-H2eCXuNlomlUm0CxExdgrXfvOMTrlP2HSJtEkPw
+
+.first().toPromise();
